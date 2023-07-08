@@ -1,7 +1,10 @@
 # Face-Mask-Detection-Using-Computer-Vision-Python
 # Output
 
-https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python/assets/78723011/8b9045fb-bbe4-4b8c-ab76-66d943ea8e4a
+
+https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python/assets/78723011/02ff1776-1b2e-4f05-a303-002708644da2
+
+
 
 
 # User Interface
