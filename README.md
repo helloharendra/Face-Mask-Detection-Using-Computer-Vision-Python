@@ -1,4 +1,123 @@
 # Face-Mask-Detection-Using-Computer-Vision-Python
+# Face Mask Detection Using Computer Vision
+
+![Face Mask Detection](images/demo.gif)
+
+This repository contains a computer vision project that focuses on detecting whether a person is wearing a face mask or not. The project utilizes state-of-the-art deep learning techniques to analyze images or video streams from various sources, such as webcams or recorded videos, and provides real-time feedback on whether individuals in the frames are wearing masks or not.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model](#model)
+- [Dataset](#dataset)
+- [Training](#training)
+- [Evaluation](#evaluation)
+- [Demo](#demo)
+- [Future Enhancements](#future-enhancements)
+- [Contributions](#contributions)
+- [License](#license)
+
+## Introduction
+
+The aim of this project is to contribute to public health efforts by automatically identifying whether individuals are wearing face masks. The technology can be deployed in various scenarios, such as hospitals, schools, public transportation, and businesses, to ensure compliance with mask-wearing guidelines.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/face-mask-detection.git
+   cd face-mask-detection
+   ```
+
+2. Create a virtual environment (optional but recommended):
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+To use the face mask detection system:
+
+1. Make sure you have the necessary dependencies installed by following the installation steps.
+
+2. Run the detection script:
+
+   ```bash
+   python detect_mask.py
+   ```
+
+3. The script will prompt you to provide the source of input (camera index or video path).
+
+4. The system will analyze each frame and draw bounding boxes around faces with predictions indicating whether they are wearing masks or not.
+
+## Model
+
+The model architecture used for this project is based on [XYZNet](link-to-paper), a deep neural network optimized for face mask detection. The model is pretrained on a large dataset and fine-tuned on our custom dataset.
+
+## Dataset
+
+The dataset used for training and evaluation consists of images of individuals with and without face masks. It was collected from various sources and annotated manually. The dataset is divided into training, validation, and testing subsets.
+
+## Training
+
+To train the model:
+
+1. Prepare the dataset by organizing the images into appropriate directories.
+
+2. Run the training script:
+
+   ```bash
+   python train.py --dataset /path/to/dataset --epochs 20
+   ```
+
+3. The script will initiate the training process and save the trained model.
+
+## Evaluation
+
+To evaluate the model:
+
+1. Run the evaluation script:
+
+   ```bash
+   python evaluate.py --model /path/to/model --dataset /path/to/dataset
+   ```
+
+2. The script will assess the model's performance on the test dataset and display relevant metrics.
+
+## Demo
+
+Check out our [demo video](demo/demo.mp4) showcasing the real-time face mask detection system in action.
+
+## Future Enhancements
+
+We are actively working on improving the project:
+
+- Multi-person detection.
+- Mask type classification (surgical, N95, cloth, etc.).
+- Integration with access control systems.
+
+## Contributions
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize the content in this `README.md` to match your project's specifics. Include any additional sections or information that you find relevant. Good luck with your face mask detection project!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # Output
 
