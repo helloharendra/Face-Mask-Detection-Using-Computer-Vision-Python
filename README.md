@@ -1,7 +1,6 @@
 # Face Mask Detection Using Computer Vision
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Face Mask Detection](images/demo.gif)
 
 This repository contains a computer vision project that focuses on detecting whether a person is wearing a face mask or not. The project utilizes state-of-the-art deep learning techniques to analyze images or video streams from various sources, such as webcams or recorded videos, and provides real-time feedback on whether individuals in the frames are wearing masks or not.
 
