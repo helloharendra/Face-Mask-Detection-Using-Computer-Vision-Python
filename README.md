@@ -1,4 +1,3 @@
-# Face-Mask-Detection-Using-Computer-Vision-Python
 # Face Mask Detection Using Computer Vision
 
 ![Face Mask Detection](images/demo.gif)
