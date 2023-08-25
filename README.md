@@ -64,7 +64,7 @@ To use the face mask detection system:
 
 ## Model
 
-The model architecture used for this project is based on [XYZNet](link-to-paper), a deep neural network optimized for face mask detection. The model is pretrained on a large dataset and fine-tuned on our custom dataset.
+The model architecture used for this project is based on [CNN](link-to-paper), a deep neural network optimized for face mask detection. The model is pretrained on a large dataset and fine-tuned on our custom dataset.
 
 ## Dataset
 
@@ -122,12 +122,7 @@ Feel free to customize the content in this `README.md` to match your project's s
 
 # Output
 
-
 https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Python/assets/78723011/02ff1776-1b2e-4f05-a303-002708644da2
-
-
-
-
 # User Interface
 
 ![Screenshot 2022-10-12 at 2 09 27 AM](https://user-images.githubusercontent.com/78723011/195432070-1f361799-6455-4127-b586-938a74b7e53a.png)
