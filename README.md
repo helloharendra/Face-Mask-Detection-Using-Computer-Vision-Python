@@ -136,3 +136,22 @@ https://github.com/helloharendra/Face-Mask-Detection-Using-Computer-Vision-Pytho
 ![Screenshot 2022-10-12 at 2 08 17 AM](https://user-images.githubusercontent.com/78723011/195432814-1c731259-5878-42d2-a24a-13cfbcf2dc1b.png)
 ![Screenshot 2022-10-12 at 2 08 21 AM](https://user-images.githubusercontent.com/78723011/195432818-249d2707-8bed-44cc-b321-3301134c5d0d.png)
 
+
+---
+
+## 💼 Hire Me & Support My Work
+
+### 🤝 Available for Projects
+I'm open to **Flutter development**, **API integrations**, and **consulting work**.
+
+📱 **Phone/WhatsApp**: [+91 7991327022](https://wa.me/917991327022)  
+📧 **Email**: [harendraprajapati72@gmail.com](mailto:harendraprajapati72@gmail.com)  
+🌐 **Website**: [nayaproyog.com](https://nayaproyog.com)  
+💻 **Portfolio**: [github.helloharendra.io](https://github.helloharendra.io)  
+
+### ☕ Buy Me a Coffee
+If you appreciate my work, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/helloharendra)
+
+
